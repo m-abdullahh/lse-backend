@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+pandas
+sentence-transformers
+scikit-learn
+xgboost
